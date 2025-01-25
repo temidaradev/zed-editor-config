@@ -15,3 +15,8 @@
    <img width="1287" alt="settings" src="https://github.com/user-attachments/assets/9d154c51-5865-420d-8def-6a2051a63458" />
 
 All done! Enjoy it!
+Note!!: If it looks too dark for you change `"dark": "Tokyo Night"` to `"dark": "Tokyo Night Storm"`
+
+Tokyo Night:
+
+Tokyo Night Storm:
