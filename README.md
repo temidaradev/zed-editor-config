@@ -19,4 +19,8 @@ Note!!: If it looks too dark for you change `"dark": "Tokyo Night"` to `"dark": 
 
 Tokyo Night:
 
+   <img width="1470" alt="tokyo-night" src="https://github.com/user-attachments/assets/f64fc9de-8994-4c6e-bcc8-ba1a60da615a" />
+
 Tokyo Night Storm:
+
+   <img width="1470" alt="tokyo-night-storm" src="https://github.com/user-attachments/assets/1f5b60c8-f28a-4e5f-8dba-727b069720ce" />
