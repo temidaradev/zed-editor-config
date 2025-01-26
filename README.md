@@ -1,4 +1,5 @@
 # How To Use?
+# !!! First You Have To Install The Tokyo Night Themes From Extensions Menu!!!
 
 1. Open Zed
 
